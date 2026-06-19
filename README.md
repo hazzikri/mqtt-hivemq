@@ -30,7 +30,7 @@ mqtt-hivemq-tutorial/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/mqtt-hivemq-tutorial.git
+git clone https://github.com/<username>/mqtt-hivemq.git
 cd mqtt-hivemq-tutorial
 ```
 
